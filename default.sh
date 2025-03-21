@@ -15,19 +15,22 @@ PIP_PACKAGES=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16"
+    "https://civitai.com/api/download/models/1422871?type=Model&format=SafeTensor&size=pruned&fp=fp16"
 )
 
 UNET_MODELS=(
 )
 
 LORA_MODELS=(
+	"https://civitai.com/api/download/models/1506035?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
+	"https://civitai.com/api/download/models/333245?type=Model&format=SafeTensor"
 )
 
 ESRGAN_MODELS=(
+	"https://civitai.com/api/download/models/125843?type=Model&format=PickleTensor"
 )
 
 CONTROLNET_MODELS=(
